@@ -1,0 +1,29 @@
+.carruselimagen {
+    margin: 10px;
+    padding: 10px;
+    border: 2px;
+    width: 800px;
+    height: 800px;
+}
+
+.fondonegro {
+    background-color: black;
+}
+
+body{
+    background-color: wheat;
+}
+.formulario_contacto{
+    margin: 10px;
+    padding: 10px;   
+    border: 2px black solid;
+   
+}
+legend{
+    font-weight: bold;
+    text-align: center;
+}
+.boton{
+    align-items: center;
+}
+
